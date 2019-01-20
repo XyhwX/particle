@@ -3,7 +3,7 @@
 There are only two long-range interactions in physics: gravity and electromagnetism. Studying motion of just one test charged
 particle particle we explore dynamic of matter inside black hole magnetosphere (magnetic field around black hole, created by accretion disk). The relativistic test particle will experience various forces while moving around central object, but we will focus on the most relevant forces for electron/ion like particles, which are Lorentz force and radiation reaction force. Using Hamiltonian formalism and particle effective potential, the equations for charged particle motion can be easily explored.
 
-In this repository I put some code for particle motion written in Wolfram Mathematica. Fell free to use and modify the code. For comments, suggestions and questions contact me at my email: martin.kolos[at]fpf.slu.cz  
+In this repository I put some code for particle motion written in Wolfram Mathematica. Feel free to use and modify the code as much as you wish. For comments, suggestions and questions contact me at email: martin.kolos[at]fpf.slu.cz  
 
 
 There are these files in this respository:
